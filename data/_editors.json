@@ -1,27 +1,28 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Creator",
+        "name": "BlastList Creator",
+        "link": "https://youtube.com/@holaamongamerxd?si=Di9p7BBTLnhpbSJh"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Elder Mod",
+        "name": "Blastlist ElderMod",
+        "link": ""  
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Mod",
+        "name": "Blastlist Mod",
+        "link": "https://youtube.com/@magnaya?si=IU92ZJR8IEfOXw1H"
+        "link": "https://youtube.com/@mrcatoryt00?si=U_LEGK5dper-jQKC"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Leaderboard Mod",
+        "name": "Blastlist Leaderboard Mod",
+        "link": ""
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Developer",
+        "name": "Blastlist developer",
+        "link": "https://youtube.com/@sebastianortiz-n3o?si=3QhhxYtMAVlkN5AU"
     }
 ]
