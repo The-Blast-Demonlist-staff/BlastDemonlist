@@ -1,28 +1,29 @@
 [
     {
         "role": "Creator",
-        "name": "BlastList Creator",
+        "name": "Theamongamerxd",
         "link": "https://youtube.com/@holaamongamerxd?si=Di9p7BBTLnhpbSJh"
     },
     {
         "role": "Elder Mod",
-        "name": "Blastlist ElderMod",
+        "name": "",
         "link": ""  
     },
     {
         "role": "Mod",
-        "name": "Blastlist Mod",
+        "name": "Kayro",
+        "name": "Mrcastory"
         "link": "https://youtube.com/@magnaya?si=IU92ZJR8IEfOXw1H"
         "link": "https://youtube.com/@mrcatoryt00?si=U_LEGK5dper-jQKC"
     },
     {
         "role": "Leaderboard Mod",
-        "name": "Blastlist Leaderboard Mod",
+        "name": "",
         "link": ""
     },
     {
         "role": "Developer",
-        "name": "Blastlist developer",
+        "name": "SebastianYT",
         "link": "https://youtube.com/@sebastianortiz-n3o?si=3QhhxYtMAVlkN5AU"
     }
 ]
