@@ -1,6 +1,6 @@
 :root {
-    --color-background: Cyan;
-    --color-on-background: Blue;
+    --color-background: #EADF00;
+    --color-on-background: Violet;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
     --color-primary: #EADF00;
